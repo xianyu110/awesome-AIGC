@@ -18,5 +18,9 @@ AIGC是指AI Generated Content，即利用人工智能技术来生成内容。�
 # AIGC导航
 https://aigc.cn/
 
-AI绘画：
-https://www.app.artflow.ai/
+## AI绘画：
+注册流程
+https://zhuanlan.zhihu.com/p/561066258
+
+官网
+https://www.midjourney.com/home/
