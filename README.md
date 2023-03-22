@@ -29,3 +29,5 @@ https://www.midjourney.com/home/
 
 ### 免翻墙：
 https://draft.art/drawing
+
+https://novelai.net/
