@@ -31,3 +31,5 @@ https://www.midjourney.com/home/
 https://draft.art/drawing
 
 https://novelai.net/
+
+https://nightcafe.studio/
