@@ -40,4 +40,10 @@ QQ频道:AI绘画
 ## AI写作：
 NotionAI:https://www.notion.so/
 
+## 综合
+文心一言，是百度研发的人工智能语言模型，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
+https://yiyan.baidu.com/
+
+## AI编程:
+https://github.com/features/preview/copilot-x
 
