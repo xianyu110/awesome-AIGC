@@ -33,3 +33,11 @@ https://draft.art/drawing
 https://novelai.net/
 
 https://nightcafe.studio/
+
+移动端:无界AI
+QQ频道:AI绘画
+
+## AI写作：
+NotionAI:https://www.notion.so/
+
+
