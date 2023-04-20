@@ -53,3 +53,11 @@ https://yiyan.baidu.com/
 ## AI编程:
 https://github.com/features/preview/copilot-x
 
+
+
+## midjoureny咒语
+
+### 生成人像
+才找出比较像的，可以加入一些个人特征的描述词进去，效果会更好
+20 years old boy, super details face, double-fold eyelids，delicate eyes, delicate facial features, short hair, 3 D, 8 K, studio lighting, light color, ultra HD,portrait, league of legends, Pokemon, futuristic,don't pout，soft lighting, anime, high detail，art station seraflur , art, ip, blind box , divine , cinematic edge lighting, light and dark contrast , mediumshot  
+
