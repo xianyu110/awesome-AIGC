@@ -24,6 +24,13 @@ https://cisxshz9p8v.feishu.cn/sheets/shtcn9hmAy7WRIlhu9duTe286Is
 
 ## AI绘画：
 
+### GPT Image 2：
+
+https://gptimage2.asia/
+
+在线生图与图片编辑工具，可用于 AI 绘画提示词、产品图、社媒配图和品牌视觉生成。
+
+
 ### midjourney：
 注册流程
 https://zhuanlan.zhihu.com/p/561066258
