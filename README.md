@@ -1,5 +1,6 @@
 # awesome-AIGC
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 # 最新最火的导航
 # AIGC 持续更新，欢迎star！
 <p align="center">
